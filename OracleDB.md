@@ -225,7 +225,7 @@ Després instal·lem el paquets:
 
 Exemple de captura:
 
-|![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.005.png)|
+|![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.005.png)|
 | :- |
 
 |rpm -i --nodeps oracle-database-xe-18c-1.0-1.x86\_64.rpm|
@@ -233,7 +233,7 @@ Exemple de captura:
 
 Exemple de captura:
 
-|![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.006.png)|
+|![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.006.png)|
 | :- |
 
 Per configurar:
@@ -241,7 +241,7 @@ Per configurar:
 |/etc/init.d/oracle-xe-18c configure|
 | :- |
 
-|![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.007.png)|
+|![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.007.png)|
 | :- |
 ## <a name="_heading=h.2s8eyo1"></a>Configuració del Firewall i altres elements de seguretat
 Per connectar-nos amb la xarxa local hem d'obrir el port 5500 i el de connexió 1521
@@ -288,11 +288,11 @@ A més hem fet un petit exemple de cambiar la contrasenya dels 3 usuaris princip
 
 Per defecte tenim tres usuaris princiapls, SYS, SYSTEM i PBDADMIN, tots tres tenen la mateixa contrasenya així que canviarem això, jo usaré el programa Oracle SQL Developer, ens n'anem a l’usuari (dins de ‘otros usuarios’), per exemple SYS:
 
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.008.png)
+![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.008.png)
 
 i aquí podem posar una contrasenya nova:
 
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.009.png)
+![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.009.png)
 
 recomano posar-li contrasenyes diferents de tots els usuaris per defecte i si pot ser inclòs fer usuaris nous i desactivar els usaris per defecte.
 ## <a name="_heading=h.3rdcrjn"></a>Instruccions d'arrencada, verificació d’estat i apagada de servei
@@ -335,18 +335,18 @@ Per connectar-nos tenim moltes maneres per exemple amb sqlplus:
 
 Primer posem de SID ‘XE’ amb ‘. oraenv’
 
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.012.png)
+![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.012.png)
 
 y per connectar-nos usem:
 
 |sqlplus sys/GetStarted18c@//localhost:1521/XE as sysdba|
 | :- |
 
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.013.png)
+![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.013.png)
 
 per Visual Studio (amb l'extensió SQl Server Client (mssql)) en Host posem la IP de la BD, el usuari i contrasenya
 
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.014.png)
+![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.014.png)
 
 
 
