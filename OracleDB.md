@@ -333,7 +333,6 @@ i canviem el ‘LISTENER\_PORT’:
 
 |![ref2]|
 | :- |
-##
 ## <a name="_heading=h.pl6pcsuhizme"></a><a name="_heading=h.1ksv4uv"></a>Connexió a la BD
 Per connectar-nos tenim moltes maneres per exemple amb sqlplus:
 
