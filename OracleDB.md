@@ -215,7 +215,7 @@ Primer descarreguem els paquets amb la comanda:
 
 Exemple de captura:
 
-|![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.004.png)|
+|![](img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.004.png)|
 | :- |
 
 Després instal·lem el paquets:
