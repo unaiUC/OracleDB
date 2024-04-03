@@ -1,4 +1,5 @@
-﻿
+<div style="text-align:center">
+
 ![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.001.png)
 
 ORACLE
@@ -13,9 +14,12 @@ Victor Redel
 
 ![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.002.png)
 
-
 #
+
 ![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.003.png)
+
+</div>
+
 
 
 
