@@ -258,11 +258,6 @@ Per connectar-nos amb la xarxa local hem d'obrir el port 5500 i el de connexió 
 |sudo firewall-cmd --list-all|
 | :- |
 ##
-##
-##
-##
-##
-
 ## <a name="_heading=h.dkrfazxwaxvg"></a><a name="_heading=h.oviaxgi6racv"></a><a name="_heading=h.rtbzg8inhnuq"></a><a name="_heading=h.qgdws04cjoru"></a><a name="_heading=h.fpvyhm1of20h"></a><a name="_heading=h.17dp8vu"></a>Securització de la instal·lació
 
 En Oracle es poden implementar bastant mesures de seguretat, alguns exemples de seguretat son els seguentsr:
