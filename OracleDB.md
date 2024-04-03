@@ -360,5 +360,5 @@ Oracle ofereix diversos sistemes de gestió de bases de dades (SGBD), incloent S
 
 
 
-[ref1]: Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.010.png
-[ref2]: Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.011.png
+[ref1]: img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.010.png
+[ref2]: img/Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.011.png
