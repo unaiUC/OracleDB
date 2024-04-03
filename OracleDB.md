@@ -76,7 +76,7 @@ En 1992, per a convertir-se en una base de dades completa, apareix Oracle V7h, q
 
 En 1997, sent Internet ja una realitat i amb els nous paradigmes de programació començant a aparèixer per a intentar desplaçar als paradigmes imperatius, Oracle V8 comença a suportar desenvolupaments orientats a objectes i l'emmagatzematge i execució de contingut multimèdia.
 
-` `En 1999 surt Oracle 8i per a estar a to amb els requeriments de la Internet. A més, el motor incorpora una Màquina Virtual Java (Java Virtual Machine) interna per a suportar l'emmagatzematge i execució de codi Java dins del motor.
+En 1999 surt Oracle 8i per a estar a to amb els requeriments de la Internet. A més, el motor incorpora una Màquina Virtual Java (Java Virtual Machine) interna per a suportar l'emmagatzematge i execució de codi Java dins del motor.
 
 Una vegada que Informix i Sybase van ser derrotats, Oracle va gaudir d'anys de domini de la indústria fins al lloc de Microsoft SQL Server a la fi dels 90 i l'adquisició d'IBM Informix Programari en 2001 per a complementar la seva base de dades DB2. Avui dia la principal competencia de Oracle per a les llicències de nova base de dades en UNIX, Linux i sistemes operatius de Windows està amb DB2 d'IBM, i amb Microsoft SQL Server.
 
@@ -110,13 +110,13 @@ Per trobar més informació sobre les característiques que ofereix cada nivell 
 - **Integració Complexa:** Facilita la integració amb múltiples sistemes i tecnologies en entorns empresarials complexos.
 - **Escenaris de Núvol i Virtualització:** Compatible amb una varietat d'entorns de núvol públic i privat, oferint flexibilitat i escalabilitat.
 
-` `Alguns casos d'ús comuns on Oracle destaca son els següents:
+Alguns casos d'ús comuns on Oracle destaca son els següents:
 
 1. **Aplicacions Empresarials:**
 
    Oracle és àmpliament utilitzat en entorns empresarials per a aplicacions de missió crítica com a sistemes de gestió empresarial (ERP), sistemes de gestió de relacions amb clients (CRM), sistemes de gestió de recursos humans (HRM), entre altres. La seva capacitat per a manejar grans volums de dades i transaccions ho fa ideal per a aquestes aplicacions.
 
-1. **Sector de la Salut:**:
+1. **Sector de la Salut:**
 
    En el sector de la salut, Oracle s'utilitza per a gestionar registres mèdics electrònics, dades de pacients, programació de cites i facturació. La seva capacitat per a manejar grans quantitats de dades i complir amb els estàndards de seguretat i privacitat és crucial en aquest entorn altament regulat.
 
@@ -361,7 +361,7 @@ Oracle ofereix diversos sistemes de gestió de bases de dades (SGBD), incloent S
 
 
 
-17
+
 
 [ref1]: Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.010.png
 [ref2]: Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.011.png
