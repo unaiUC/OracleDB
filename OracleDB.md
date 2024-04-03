@@ -96,9 +96,9 @@ Pel que fa a les polítiques de suport, Oracle ofereix diferents nivells de supo
 Per trobar més informació sobre les característiques que ofereix cada nivell de suport es recomana revisar la següent documentació oficial de oracle, on es troba el període de temps que dura el suport segons les llicències:
 
 <https://www.oracle.com/a/ocom/docs/oracle-software-technical-support-policies-mx-esp.pdf>
-##
+
 ## <a name="_heading=h.2555f7qxmfzb"></a><a name="_heading=h.3t9kunz224xf"></a>Usos recomanats
-##
+
 <a name="_heading=h.vwr020vcti3p"></a>La base de dades Oracle és una opció sòlida per a una àmplia gamma de casos d'ús degut a les seves característiques d'escalabilitat, gestió de dades, velocitat, optimització, seguretat etc.
 
 És per això que Oracle es ideal per aquestes característiques:
