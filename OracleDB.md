@@ -1,20 +1,13 @@
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.001.png)
+# ORACLE
 
-ORACLE
+## Base de dades
 
-Base de dades
+## 25 DE MARZO DE 2024
 
-25 DE MARZO DE 2024
+### UNAI CONUS
 
-UNAI CONUS
+### Victor Redel
 
-Victor Redel
-
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.002.png)
-
-
-
-![](Aspose.Words.2fccffd3-2e7f-4e39-9870-7065a2a0ade0.003.png)
 
 
 
