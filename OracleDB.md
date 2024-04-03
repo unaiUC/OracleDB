@@ -10,49 +10,51 @@
 
 
 
+##
+
 
 
 Contenido
 
-[Base de dades	2](#_heading=h.gjdgxs)
+[Base de dades	](#_heading=h.gjdgxs)
 
-[Historia de la base de dades	2](#_heading=h.30j0zll)
+[Historia de la base de dades	](#_heading=h.30j0zll)
 
-[Suport	4](#_heading=h.1fob9te)
+[Suport	](#_heading=h.1fob9te)
 
-[Usos recomanats	4](#_heading=h.3t9kunz224xf)
+[Usos recomanats	](#_heading=h.3t9kunz224xf)
 
-[Versions de solució	6](#_heading=h.3znysh7)
+[Versions de solució	](#_heading=h.3znysh7)
 
-[Comparativa	8](#_heading=h.2et92p0)
+[Comparativa	](#_heading=h.2et92p0)
 
-[Documentació d'instal·lació i configuració	10](#_heading=h.tyjcwt)
+[Documentació d'instal·lació i configuració	](#_heading=h.tyjcwt)
 
-[Preparació Maquina	10](#_heading=h.3dy6vkm)
+[Preparació Maquina	](#_heading=h.3dy6vkm)
 
-[Descàrrega del programari	10](#_heading=h.1t3h5sf)
+[Descàrrega del programari	](#_heading=h.1t3h5sf)
 
-[Instal·lació del SGBD	10](#_heading=h.rmnm3m6qdfdz)
+[Instal·lació del SGBD	](#_heading=h.rmnm3m6qdfdz)
 
-[Configuració del Firewall i altres elements de seguretat	11](#_heading=h.2s8eyo1)
+[Configuració del Firewall i altres elements de seguretat	](#_heading=h.2s8eyo1)
 
-[Securització de la instal·lació	11](#_heading=h.17dp8vu)
+[Securització de la instal·lació	](#_heading=h.17dp8vu)
 
-[Instruccions d'arrencada, verificació d’estat i apagada de servei	11](#_heading=h.3rdcrjn)
+[Instruccions d'arrencada, verificació d’estat i apagada de servei	](#_heading=h.3rdcrjn)
 
-[Fitxer de configuració	12](#_heading=h.26in1rg)
+[Fitxer de configuració	](#_heading=h.26in1rg)
 
-[Fitxers de dades	12](#_heading=h.lnxbz9)
+[Fitxers de dades	](#_heading=h.lnxbz9)
 
-[Ports d'escolta del servei de la base de dades i passos per canviar-los	12](#_heading=h.35nkun2)
+[Ports d'escolta del servei de la base de dades i passos per canviar-los	](#_heading=h.35nkun2)
 
-[Connexió a la BD	12](#_heading=h.1ksv4uv)
+[Connexió a la BD	](#_heading=h.1ksv4uv)
 
-[Tipus de SGBD	12](#_heading=h.44sinio)
+[Tipus de SGBD	](#_heading=h.44sinio)
 
-[Classificació del sistema de gestió de bases de dades	12](#_heading=h.2jxsxqh)
+[Classificació del sistema de gestió de bases de dades	](#_heading=h.2jxsxqh)
 
-[Enfocament i model de dades	13](#_heading=h.z337ya)
+[Enfocament i model de dades	](#_heading=h.z337ya)
 
 
 # <a name="_heading=h.gjdgxs"></a>Base de dades
