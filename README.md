@@ -1,4 +1,4 @@
 # Investigacion OracleDB
-> ##[!IMPORTANT] 
+> ## [!IMPORTANT] 
 > ### Realizado por: 
 > #### Unai Conus y Victor Redel
